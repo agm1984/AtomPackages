@@ -1,0 +1,36 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "cc2708ae-ea91-4d3d-9457-86b034f7cd22"
+  "atom-material-ui":
+    colors: {}
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  "custom-invisibles":
+    crActive: false
+    eolActive: false
+  editor:
+    invisibles:
+      cr: " "
+      eol: " "
+    showInvisibles: true
+  "exception-reporting":
+    userId: "fa6acdd8-d1e1-134a-7069-1a1dc3629d59"
+  linter: {}
+  "linter-jshint":
+    lintInlineJavaScript: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "neon-cursor": {}

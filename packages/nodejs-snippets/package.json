@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+        "spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\adam\\AppData\\Local\\Temp\\apm-install-dir-117322-16512-cr0415.9bjb9h33di"
+    ]
+  ],
+  "_from": "..\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+  "_id": "nodejs-snippets@2.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nodejs-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+    "spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+  "_shasum": "3e8a4d84a877ea4305dbbc1fcf9e65022d54ed61",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-16512-ar7c0h.h1c3qbbj4i\\package.tgz",
+  "_where": "C:\\Users\\adam\\AppData\\Local\\Temp\\apm-install-dir-117322-16512-cr0415.9bjb9h33di",
+  "author": {
+    "name": "dead_horse",
+    "email": "dead_horse@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dead-horse/atom-nodejs-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "atom nodejs snippets",
+  "devDependencies": {},
+  "homepage": "https://github.com/dead-horse/atom-nodejs-snippets#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "nodejs-snippets",
+  "optionalDependencies": {},
+  "readme": "atom-nodejs-snippets\n--------\n\nMy atom Node.js snippets.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dead-horse/atom-nodejs-snippets.git"
+  },
+  "version": "2.0.2"
+}

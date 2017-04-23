@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+        "spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\adam\\AppData\\Local\\Temp\\apm-install-dir-117322-21204-1irso1.plckd18aor"
+    ]
+  ],
+  "_from": "..\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+  "_id": "lodash-snippets@2.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/lodash-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+    "spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+  "_shasum": "640b40f5121142815d85d6056f5374043b46f48c",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\adam\\AppData\\Local\\Temp\\d-117322-21204-1v58s56.upxnryhkt9\\package.tgz",
+  "_where": "C:\\Users\\adam\\AppData\\Local\\Temp\\apm-install-dir-117322-21204-1irso1.plckd18aor",
+  "bugs": {
+    "url": "https://github.com/richtmat/lodash-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "Lo-Dash snippets for Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "homepage": "https://github.com/richtmat/lodash-snippets/",
+  "license": "MIT",
+  "name": "lodash-snippets",
+  "optionalDependencies": {},
+  "readme": "# Lo-Dash.js Snippets for Atom Editor\nSome snippets to quickly use Lo-Dash Library in Atom.\n\nThe Arrays, Collections, Functions, Objects, and Utilities parts of the library are implemented currently. I would love to extend the snippets to the complete [Lo-Dash functionality](https://lodash.com/docs).\n\nInspired by the [atom-undescorejs](https://github.com/tianpermana/atom-underscorejs) package by Tian Permana.\n\n## Install\n```bash\napm install lodash-snippets\n```\n\nOr Settings ➔ Install ➔ Search for `lodash`\n\n## Contributing\nFeel free to contribute with issues or PRs!\n\n## License\n[MIT](LICENSE.md) © [Matthias Richter](https://github.com/richtmat)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richtmat/lodash-snippets.git"
+  },
+  "version": "2.0.0"
+}

@@ -1,3 +1,36 @@
+### 2.65.1
+  - Fix how we handle unexpected flowtypes that changed in 2.64.0 - Issue #376
+  
+### 2.65.0
+  - Add support for styled-components styled(Comp).attrs() form of template.
+
+### 2.64.0
+ - Change parsing of possible multiline arrow functions.
+
+### 2.63.0
+  - Changed format for shortcut commenting inside styled-components. Prettier used a template commenting format that was different to language-babel. We have agreed to use a common format that allows co-existence. i.e. \`{'' /&ast; color: red; &ast;/}\`. This will cause issues for already commented lines inside styled-component tags that need to be uncommented which is regrettable. Also prettier-atom has yet to be updated to have this new format.
+  - Add support for styled-components V2.
+
+### 2.62.0
+  - Support interpolations inside css url(). #368
+  - Allow backtick insertion to wrap selected text. #370
+
+### 2.61.0
+  - Add support for CSS grid [linename] values.
+  - Fix 2.59.1
+
+### 2.60.0
+  - Allow non-css snippets inside styled-componenets tags.
+
+### 2.59.1
+  - Fix Flow function arrow parameters when on same line as declaration. Issue #361
+
+### 2.59.0
+  - Add class implements support for flow.
+
+### 2.58.0
+  - Add new template syntax for Relay.
+
 ### 2.57.7
   - ASI grammar also missing terminators for default.
 
